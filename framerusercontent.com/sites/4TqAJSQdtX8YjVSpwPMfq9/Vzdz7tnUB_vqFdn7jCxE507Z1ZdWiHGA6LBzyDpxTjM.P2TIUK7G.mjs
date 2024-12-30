@@ -3751,7 +3751,7 @@ var Ct = "framer-E57Ul",
                                     children: e(ue, {
                                         height: "100%",
                                         id: "gwqYOqyrW",
-                                        J2lsbMWlm: "CA: somingsoon",
+                                        J2lsbMWlm: "CA: comingsoon",
                                         layoutId: "gwqYOqyrW",
                                         variant: "CKB0q5b3O",
                                         width: "100%",
