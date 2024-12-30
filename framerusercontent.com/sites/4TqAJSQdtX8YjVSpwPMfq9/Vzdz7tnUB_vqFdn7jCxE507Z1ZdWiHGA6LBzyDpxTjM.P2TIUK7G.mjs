@@ -3039,7 +3039,7 @@ var N1 = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                             layoutDependency: _,
                             layoutId: "QvdRd9wBK-container",
                             children: e('a', { 
-                                href: "https://pump.fun", // coming soon
+                                href: "https://pump.fun/coin/EuCdK7sQJk2ua9EkKocxbjoR5ubM6p8FRAzpV9Tkpump", // coming soon
                                 target: "_blank", 
                                 rel: "noopener noreferrer", 
                                 style: { textDecoration: 'none', color: 'inherit' }, 
@@ -3751,7 +3751,7 @@ var Ct = "framer-E57Ul",
                                     children: e(ue, {
                                         height: "100%",
                                         id: "gwqYOqyrW",
-                                        J2lsbMWlm: "CA: Coming Soon",
+                                        J2lsbMWlm: "CA: somingsoon",
                                         layoutId: "gwqYOqyrW",
                                         variant: "CKB0q5b3O",
                                         width: "100%",
