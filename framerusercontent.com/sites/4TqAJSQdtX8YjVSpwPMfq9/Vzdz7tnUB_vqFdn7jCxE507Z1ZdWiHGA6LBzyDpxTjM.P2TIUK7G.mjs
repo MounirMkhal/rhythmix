@@ -3702,7 +3702,7 @@ var Ct = "framer-E57Ul",
                                     "--framer-text-color": "rgb(178, 173, 173)",
                                   },
                                   children:
-                                    "Build decentralized AI agents, smart contracts, and intelligent dapps with Eternal AI\u2014on your favorite blockchain.",
+                                    "Build decentralized AI agents, smart contracts, and intelligent dapps with Rhythmix AI\u2014on your favorite blockchain.",
                                 }),
                               }),
                               className: "framer-1gviu6q",
